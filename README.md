@@ -1,7 +1,7 @@
 # MT3 LALALA.AI
-MT3をフォークしたもの。
-入力ファイル(音源)をYoutubeのURLで指定し、LALALA.AIで抽出したインストをMT3に読み込ませる機能を追加。
-LALALA.AIはアクティベーションキーが必要(要課金)。
+- [MT3](https://github.com/magenta/mt3)をフォークしたもの。
+- 入力ファイル(音源)をYoutubeのURLで指定し、[LALALA.AI](https://www.lalal.ai/)で抽出したインストをMT3に読み込ませる機能を追加。
+- [LALALA.AI](https://www.lalal.ai/)はアクティベーションキーが必要。
 
 # MT3: Multi-Task Multitrack Music Transcription
 
