@@ -1,3 +1,8 @@
+# MT3 LALALA.AI
+MT3をフォークしたもの。
+入力ファイル(音源)をYoutubeのURLで指定し、LALALA.AIで抽出したインストをMT3に読み込ませる機能を追加。
+LALALA.AIはアクティベーションキーが必要(要課金)。
+
 # MT3: Multi-Task Multitrack Music Transcription
 
 MT3 is a multi-instrument automatic music transcription model that uses the [T5X framework](https://github.com/google-research/t5x).
